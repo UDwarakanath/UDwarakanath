@@ -10,27 +10,27 @@ I am a frontend developer with focus on web fundamentals. I work to deliver the 
 Responsibilities-
 ###  &nbsp; Responsibitlities :
 <div>
-  <p>Developing new user-facing features using React.js</p><br>
-  <p>Building reusable components and front-end libraries for future use</p><br>
-  <p>Translating designs into high quality code</p><br>
-  <p>Optimizing components for maximum performance</p><br>
-  <p>Optimizing performance of the application.</p><br>
+  <p>Developing new user-facing features using React.js</p>
+  <p>Building reusable components and front-end libraries for future use</p>
+  <p>Translating designs into high quality code</p>
+  <p>Optimizing components for maximum performance</p>
+  <p>Optimizing performance of the application.</p>
   <p>Troubleshooting the bugs</p><br>
 </div>
 
 ---
 ###  &nbsp; Skills :
 <div>
-  <p>Skills: HTML · Cascading Style Sheets (CSS) · React.js · redux · redux-toolkit · JavaScript · HTML · GitHub · Webpack · REST APIs </p><br>
-  <p>Strong proficiency in JavaScript and the JavaScript object model</p><br>
-  <p>In-depth understanding of React.js and its core principles</p><br>
-  <p>Experience with popular React.js workflows (Redux)</p><br>
-  <p>Experience with React Hooks and building custom react-hooks</p><br>
-  <p>Familiarity with newer specifications of ECMAScript</p><br>
-  <p>Familiarity with RESTful APIs</p><br>
-  <p>Knowledge of Redux middleware such as Redux Saga & Redux Thunk</p><br>
-  <p>Good Understanding with common front-end development tools such as Babel, Webpack, NPM, yarn etc.</p><br>
-  <p>Familiarity with common tools such as Git, Bitbucket, JIRA</p><br>
+  <p>Skills: HTML · Cascading Style Sheets (CSS) · React.js · redux · redux-toolkit · JavaScript · HTML · GitHub · Webpack · REST APIs </p>
+  <p>Strong proficiency in JavaScript and the JavaScript object model</p>
+  <p>In-depth understanding of React.js and its core principles</p>
+  <p>Experience with popular React.js workflows (Redux)</p>
+  <p>Experience with React Hooks and building custom react-hooks</p>
+  <p>Familiarity with newer specifications of ECMAScript</p>
+  <p>Familiarity with RESTful APIs</p>
+  <p>Knowledge of Redux middleware such as Redux Saga & Redux Thunk</p>
+  <p>Good Understanding with common front-end development tools such as Babel, Webpack, NPM, yarn etc.</p>
+  <p>Familiarity with common tools such as Git, Bitbucket, JIRA</p>
 </div>
 
 ---
